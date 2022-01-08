@@ -56,21 +56,12 @@
 
 
 <br/>
-<br/>
+<!-- <br/> -->
 
-<a href="https://github.com/RahulGoyal03/github-readme-activity-graph"><img alt="Rahul Goyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RahulGoyal03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-<!-- ## 📗 Latest blog posts:
-
-- **[Cloning Nykaa.com | A Functional And Visual Clone.](https://medium.com/@ankitmi468/cloning-of-nykaa-com-a-functional-and-visual-clone-9b3538a1c88d)**
-- **[Cloning hokmakeup.com | A functional and Visual clone](https://medium.com/@ankitmi468/cloning-hokmakeup-com-a-functional-and-visual-clone-203d3d4a5e89)** -->
+<!-- <a href="https://github.com/RahulGoyal03/github-readme-activity-graph"><img alt="Rahul Goyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RahulGoyal03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!-- <br/> -->
 
 
-
-<br/>
 
 ## Connect with me:
 <p align="left">
