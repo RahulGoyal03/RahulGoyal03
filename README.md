@@ -20,6 +20,15 @@
 
 - ⚡ Fun fact **I play games and watch the movies very often.**
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/therahulgoyal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://mobile.twitter.com/rahulgoyal0303"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/rahulgoyal_0303/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a title="rahulgl0303@gmail.com" href="mailto:rahulgl0303@gmail.com" target="blank"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="RahulGoyal03" /></a>    
+</p>
+
 ## 🚀 Languages and Tools:
 
 <p align="left">  
@@ -63,14 +72,7 @@
 
 
 
-## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/therahulgoyal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mobile.twitter.com/rahulgoyal0303"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rahulgoyal_0303/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/RahulGoyal03/github-profile-views-counter">
